@@ -1,6 +1,6 @@
 # Laporan Pengujian Konektor GitHub
 
-Laporan ini merinci pengujian konektor GitHub dan mendemonstrasikan kemampuannya menggunakan GitHub CLI. Pengujian dilakukan untuk memverifikasi fungsionalitas konektor dan menunjukkan jenis data yang dapat diakses.
+Laporan ini merinci pengujian konektor GitHub dan mendemonstrasikan kemampuannya menggunakan GitHub CLI. File ini telah diedit secara otomatis oleh Manus sebagai bagian dari demonstrasi pengeditan langsung di GitHub. Pengujian dilakukan untuk memverifikasi fungsionalitas konektor dan menunjukkan jenis data yang dapat diakses.
 
 ## Gambaran Umum Konektor GitHub
 
